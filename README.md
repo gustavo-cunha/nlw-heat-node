@@ -1,4 +1,4 @@
-<h1 align="center">NLW Heat</h1>
+<h1 align="center">NLW Heat - Back-end</h1>
 
 ## Projeto
 
