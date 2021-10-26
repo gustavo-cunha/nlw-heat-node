@@ -2,7 +2,7 @@
 
 ## Projeto
 
-Aplicação back-end desenvolvida durante o evento NLW Heat, da Rocketseat.
+Aplicação back-end Node.js desenvolvida durante o evento NLW Heat, da Rocketseat.
 
 ## Tecnologias
 
